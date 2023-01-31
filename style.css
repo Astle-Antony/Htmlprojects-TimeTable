@@ -1,0 +1,13 @@
+*
+{
+ margin:0; 
+ box-sizing:border-box;}
+
+header{
+    background:linear-gradient(45dg,red,blue);
+    color: #fff;
+    text-align:center;
+    width: 100px;
+    display:block;
+    padding:10px;
+}
